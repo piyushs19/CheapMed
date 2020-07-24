@@ -9,3 +9,4 @@ dependencies:
   - ipywidgets
   - bs4
   - selenium
+  - matplotlib
