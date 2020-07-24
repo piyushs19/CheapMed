@@ -3,3 +3,9 @@ channels:
 dependencies:
   - appmode
   - pandas
+  - plotly
+  - plotly_express
+  - pandas
+  - ipywidgets
+  - bs4
+  - selenium
